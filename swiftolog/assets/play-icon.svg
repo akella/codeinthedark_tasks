@@ -1,0 +1,19 @@
+<svg id="play-icon" xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="25.5" cy="25.5" r="25"/>
+  <path id="Icon_-_Triangle" data-name="Icon - Triangle" class="cls-2" d="M2278,466v22l15-11-15-11" transform="translate(-2258.5 -451.5)"/>
+</svg>

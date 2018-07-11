@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="26px" viewBox="0 0 27 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_plane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-frame" transform="translate(-343.000000, -58.000000)">
+            <g id="Title" transform="translate(123.000000, 50.000000)">
+                <g id="ic_plane" transform="translate(218.000000, 5.000000)">
+                    <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+                    <path d="M28,21.3333333 L28,18.6666667 L17.3333333,12 L17.3333333,4.66666667 C17.3333333,3.56 16.44,2.66666667 15.3333333,2.66666667 C14.2266667,2.66666667 13.3333333,3.56 13.3333333,4.66666667 L13.3333333,12 L2.66666667,18.6666667 L2.66666667,21.3333333 L13.3333333,18 L13.3333333,25.3333333 L10.6666667,27.3333333 L10.6666667,29.3333333 L15.3333333,28 L20,29.3333333 L20,27.3333333 L17.3333333,25.3333333 L17.3333333,18 L28,21.3333333 L28,21.3333333 Z" id="Shape" fill="#565D6B" transform="translate(15.333333, 16.000000) rotate(-270.000000) translate(-15.333333, -16.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

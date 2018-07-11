@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="6px" viewBox="0 0 20 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow_flight</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-frame" transform="translate(-426.000000, -155.000000)" stroke="#A2A9B8">
+            <g id="flight" transform="translate(123.000000, 112.000000)">
+                <g id="Outbound*" transform="translate(1.000000, 21.000000)">
+                    <g id="time-+-airports" transform="translate(198.000000, 0.000000)">
+                        <g id="Praha-(PRG)-+-Berlín-(SXF)-+-sipka-copy-2" transform="translate(0.000000, 18.000000)">
+                            <g id="arrow_flight" transform="translate(104.000000, 4.000000)">
+                                <path d="M0,3 L16,3" id="line"></path>
+                                <g id="sipka" transform="translate(16.000000, 0.000000)" stroke-linecap="round">
+                                    <path d="M0,0 L2.82842712,2.82842712" id="Path-176"></path>
+                                    <path d="M0,3.17157288 L2.82842712,6" id="Path-176-Copy" transform="translate(1.414214, 4.585786) scale(1, -1) translate(-1.414214, -4.585786) "></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
